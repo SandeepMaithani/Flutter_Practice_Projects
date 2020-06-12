@@ -95,4 +95,3 @@ class CardApp extends StatelessWidget {
 }
 
 
-//Business Card Project completed
